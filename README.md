@@ -42,6 +42,12 @@ Python-first FEM platform for rapid variational formulations and coupled PDEs (F
 - https://fenicsproject.org/
 - https://github.com/FEniCS
 
+### AgentFEM
+Python finite-element workflows for structural mechanics and heat transfer, built on FEniCSx/DOLFINx and PETSc. Shared modeling and result interfaces for researchers, scripts, and AI agents; includes reproducible examples and parameter campaigns.
+
+- https://haoming-luo.github.io/agentfem/
+- https://github.com/haoming-luo/agentfem ![GitHub stars](https://img.shields.io/github/stars/haoming-luo/agentfem?style=flat&label=%E2%AD%90)
+
 ### MFEM
 Lightweight, scalable C++ FEM toolbox for high-order methods, GPU/HPC, and research discretizations (Galerkin, DG, mixed, DPG).
 
